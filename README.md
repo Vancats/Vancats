@@ -1,16 +1,17 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hello!+It+is+my+github+homepage.)](https://git.io/typing-svg)
 
+![](https://cdn.jsdelivr.net/gh/vancats/vancats/assets/github-contribution-grid-snake.svg)              
+
 ### Hi I'm vancats. 👋
 ![my-visitors](https://visitor-badge.glitch.me/badge?page_id=vancats)
-
-![](https://cdn.jsdelivr.net/gh/vancats/vancats/assets/github-contribution-grid-snake.svg)              
 
 - 🔭 I’m currently working on Hangzhou.
 - 🌱 My favorite development framework is [vue.js](https://v3.cn.vuejs.org/).
 - 💬 WeChat: vancats216
 - ✉️ Email: vancats216@gmail.com
 
-![](https://cdn.jsdelivr.net/gh/vancats/vancats/github-metrics.svg)   
+<!-- ![](https://cdn.jsdelivr.net/gh/vancats/vancats/github-metrics.svg)    -->
+![](./github-metrics.svg)              
 
 #### My Data
 
