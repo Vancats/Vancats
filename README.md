@@ -1,4 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hello!+It+is+my+github+homepage.)](https://git.io/typing-svg)
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Hello!+It+is+my+github+homepage.)](https://git.io/typing-svg" />
+<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hello!+It+is+my+github+homepage.)](https://git.io/typing-svg) -->
+</div>
+
 
 ![](https://cdn.jsdelivr.net/gh/vancats/vancats/assets/github-contribution-grid-snake.svg)              
 
