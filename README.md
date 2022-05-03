@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Hello!+It+is+my+homepage.](https://git.io/typing-svg" />
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Hello!+It+is+my+homepage." />
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hello!+It+is+my+github+homepage.)](https://git.io/typing-svg) -->
 </div>
 
