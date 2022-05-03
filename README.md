@@ -14,7 +14,7 @@
 
 #### My Data
 
-- [Do one problem every day and make a little progress every day](https://github.com/vancats/vancats-leetcode)
+- [Coding every day](https://github.com/vancats/vancats-leetcode)
 
 ![My Leetcode](https://stats.justsong.cn/api/leetcode?username=leiqifan&cn=true&theme=dark)
 
