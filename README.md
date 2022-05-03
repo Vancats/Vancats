@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Hello!+It+is+my+github+homepage.)](https://git.io/typing-svg" />
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Hello!+It+is+my+homepage.](https://git.io/typing-svg" />
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hello!+It+is+my+github+homepage.)](https://git.io/typing-svg) -->
 </div>
 
@@ -7,7 +7,9 @@
   <img src="https://cdn.jsdelivr.net/gh/vancats/vancats/assets/github-contribution-grid-snake.svg" />
 <!-- ![](https://cdn.jsdelivr.net/gh/vancats/vancats/assets/github-contribution-grid-snake.svg)               -->
 </div>
+
 ### Hi I'm vancats. 👋
+
 ![my-visitors](https://visitor-badge.glitch.me/badge?page_id=vancats)
 
 - 🔭 I’m currently working on Hangzhou.
