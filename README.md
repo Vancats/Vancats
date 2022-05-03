@@ -3,6 +3,8 @@
 ### Hi I'm Vancats. 👋
 ![my-visitors](https://visitor-badge.glitch.me/badge?page_id=vancats)
 
+![](https://raw.githubusercontent.com/vancats/vancats/main/assets/github-contribution-grid-snake.svg)              
+
 - 🔭 I’m currently working on Hangzhou.
 - 🌱 My favorite development framework is [vue.js](https://v3.cn.vuejs.org/).
 - 💬 WeChat: vancats216
