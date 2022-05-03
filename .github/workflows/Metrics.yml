@@ -24,7 +24,7 @@ jobs:
           # Options
           user: vancats
           template: classic
-          base: header, metadata
+          base: metadata
           config_timezone: Asia/Shanghai
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
