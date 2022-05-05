@@ -26,6 +26,6 @@
 
 ![My Leetcode](https://stats.justsong.cn/api/leetcode?username=leiqifan&cn=true&theme=dark)
 
-- [Juejin Data](https://juejin.cn/user/2313815570265992/posts)
+<!-- - [Juejin Data](https://juejin.cn/user/2313815570265992/posts) -->
 
-![My Juejin](https://stats.justsong.cn/api/juejin?id=2313815570265992&theme=dark)
+<!-- ![My Juejin](https://stats.justsong.cn/api/juejin?id=2313815570265992&theme=dark) -->
