@@ -12,8 +12,7 @@
 
 
 
-- 🔭 I’m currently working on Hangzhou in.
-- 🌱 Right now I'm working on visualization.
+- 🔭 I’m currently in Hangzhou and working on learning visualization.
 - 💬 WeChat: vancats216
 - ✉️ Email: vancats216@gmail.com
 
