@@ -12,8 +12,8 @@
 
 
 
-- 🔭 I’m currently working on Hangzhou.
-- 🌱 My favorite development framework is [vue.js](https://v3.cn.vuejs.org/).
+- 🔭 I’m currently working on Hangzhou in.
+- 🌱 Right now I'm working on visualization.
 - 💬 WeChat: vancats216
 - ✉️ Email: vancats216@gmail.com
 
