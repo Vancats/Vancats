@@ -23,7 +23,7 @@
 
 - [Coding every day](https://github.com/vancats/vancats-leetcode)
 
-![My Leetcode](https://stats.justsong.cn/api/leetcode?username=leiqifan&cn=true&theme=dark)
+![My Leetcode](https://stats.justsong.cn/api/leetcode?username=vancats&cn=true&theme=dark)
 
 <!-- - [Juejin Data](https://juejin.cn/user/2313815570265992/posts) -->
 
