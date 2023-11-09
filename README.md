@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently in Hangzhou and working on learning visualization.
 - 💬 WeChat: vancats216
-- ✉️ Email: vancats216@gmail.com
+- ✉️ Email: vancats777@gmail.com
 
 <!-- ![](https://cdn.jsdelivr.net/gh/vancats/vancats/github-metrics.svg)    -->
 ![](./github-metrics.svg)              
